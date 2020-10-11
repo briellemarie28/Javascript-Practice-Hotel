@@ -3,7 +3,7 @@
 //calculate the offer price which is shown to the user
 //script is places within an IFFE
 (function(){
-    var hotel = {
+    var hotel = {      //object created using object literal - curly braces
         name: 'Park',
         roomRate: 240,
         discount: 15,
